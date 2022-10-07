@@ -30,6 +30,7 @@ body {
 }
 
 .cabecalho-menu-item {
+    cursor: pointer;
     font-family: 'Sarala', sans-serif;
     color: #fff2e7;
     font-weight: 400;
@@ -74,11 +75,12 @@ body {
     font-family: 'Passions Conflict', cursive;
     font-weight: 400;
     font-size: 70px;
-    color: #020202;
+    color: #fff2e7;
     
 }
 
 .conteudo-principal-escrito-botao {
+    cursor: pointer;
     background-color: #ECD6C4;
     width: 120px;
     height: 35px;
